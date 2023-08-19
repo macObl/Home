@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.8f666245.css",
-    "main.js": "/home/static/js/main.47e7bdf4.js",
+    "main.css": "/home/static/css/main.4fc53ace.css",
+    "main.js": "/home/static/js/main.b635f14f.js",
     "static/js/787.3ba5e41c.chunk.js": "/home/static/js/787.3ba5e41c.chunk.js",
     "static/media/Doomsday.mp3": "/home/static/media/Doomsday.43f4a230cd46cc8c7f6f.mp3",
     "static/media/One Beer.mp3": "/home/static/media/One Beer.f97ab327b01c418a79eb.mp3",
@@ -9,13 +9,30 @@
     "static/media/Figaro.mp3": "/home/static/media/Figaro.87d1ef9ca55b6cfb72e2.mp3",
     "static/media/Meat Grinder.mp3": "/home/static/media/Meat Grinder.2059689625750a5c8ae3.mp3",
     "static/media/All Caps.mp3": "/home/static/media/All Caps.c54aaedc098e5825e5d5.mp3",
+    "static/media/cubeWave.gif": "/home/static/media/cubeWave.323bae5f322d542c4496.gif",
+    "static/media/SupSkelly.png": "/home/static/media/SupSkelly.2beba892f7efce4ce051.png",
+    "static/media/fighter_4.png": "/home/static/media/fighter_4.91093ad247ab815d9442.png",
+    "static/media/fighter_1.png": "/home/static/media/fighter_1.210850bc16b2dcf10616.png",
+    "static/media/fighter_3.png": "/home/static/media/fighter_3.3521e79f4d21e1870c1e.png",
+    "static/media/fighter_2.png": "/home/static/media/fighter_2.dede8839ab8f33f06f31.png",
+    "static/media/coming_soon.png": "/home/static/media/coming_soon.ff6313ea069e914b2f20.png",
+    "static/media/dashboard_1.png": "/home/static/media/dashboard_1.48547f13c2e8e73822c0.png",
+    "static/media/dashboard_2.png": "/home/static/media/dashboard_2.3fe9f88752986054fb1c.png",
+    "static/media/MacResume.pdf": "/home/static/media/MacResume.c888f426410f3a07d1bc.pdf",
+    "static/media/dashboard_3.png": "/home/static/media/dashboard_3.1a0e6848288146621a17.png",
+    "static/media/doom_2.png": "/home/static/media/doom_2.8cb1c403c0d7b5ffe70a.png",
+    "static/media/doom_1.png": "/home/static/media/doom_1.4d225d2d9c69d29fbfcc.png",
+    "static/media/jumper_2.png": "/home/static/media/jumper_2.f2caa3f25605d7f2cf35.png",
+    "static/media/jumper_4.png": "/home/static/media/jumper_4.0bf2810d8a2af2134519.png",
+    "static/media/jumper_3.png": "/home/static/media/jumper_3.c764fc1d9f3de8ce66a5.png",
+    "static/media/jumper_1.png": "/home/static/media/jumper_1.e3e0b6f2a69db506efc3.png",
     "index.html": "/home/index.html",
-    "main.8f666245.css.map": "/home/static/css/main.8f666245.css.map",
-    "main.47e7bdf4.js.map": "/home/static/js/main.47e7bdf4.js.map",
+    "main.4fc53ace.css.map": "/home/static/css/main.4fc53ace.css.map",
+    "main.b635f14f.js.map": "/home/static/js/main.b635f14f.js.map",
     "787.3ba5e41c.chunk.js.map": "/home/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f666245.css",
-    "static/js/main.47e7bdf4.js"
+    "static/css/main.4fc53ace.css",
+    "static/js/main.b635f14f.js"
   ]
 }
