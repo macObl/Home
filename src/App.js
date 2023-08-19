@@ -7,7 +7,7 @@ import Doom from './components/doom/Doom';
 
 function App() {
   return (
-    <BrowserRouter basename='/home'>
+    <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/doom" element={<Doom />} />

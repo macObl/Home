@@ -28,7 +28,7 @@ const projects = [
         langs: ["JS", "HTML"],
         title: "Escape MF Dooms Maze",
         disc: "Old school DOOM inspired video game made entirly with JavaScript and HTML",
-        link: "/home/doom", 
+        link: "/doom", 
         glink: "https://github.com/macObl/MF_DOOMZ_Maze"
     },
     {
