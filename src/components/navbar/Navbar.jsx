@@ -7,7 +7,7 @@ import PDF from './imgs/MacResume.pdf';
 
 
 const Navbar = () => {
-        const [toggle, setToggle] = useState(true)
+        const [toggle, setToggle] = useState(false)
     return<>
         <div className='fixed top-0 left-0 right-0 bg-[#18192e]'>
             <div className='px-5 max-w-[1560px] mx-auto flex items-center justify-between pt-6 my-2'>
@@ -41,7 +41,7 @@ const Navbar = () => {
                         </div>
                     </div>
                     <div onClick={()=>setToggle(true)} className="">
-                        <div className="open block md:hidden w-8">
+                        <div className="close block md:hidden w-8">
                             <div className="w-full h-[1px] my-2 rounded-r-3xl bg-[#D9D9D9]"></div>
                             <div className="w-full h-[1px] my-2 rounded-r-3xl bg-[#D9D9D9]"></div>
                             <div className="w-full h-[1px] my-2 rounded-r-3xl bg-[#D9D9D9]"></div>
