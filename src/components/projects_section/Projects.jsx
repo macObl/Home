@@ -20,7 +20,7 @@ const projects = [
         langs: ["Node.JS", "EJS", "CSS", "Python"],
         title: "Video Game Dashboard",
         disc: "An analytics dashbaord created to view web-scraped video game data.",
-        link: "#project1",
+        link: "https://game-dashboard-rqcm.onrender.com/",
         glink: "https://github.com/macObl/Game_Dashboard"
     },
     {
