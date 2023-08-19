@@ -7,14 +7,10 @@ import Doom from './components/doom/Doom';
 
 function App() {
   return (
-    <BrowserRouter>
-      <div className=''>
         <Routes>
           <Route path="/home" element={<Home />} />
           <Route path="/doom" element={<Doom />} />
         </Routes>
-      </div>
-    </BrowserRouter>
   );
 }
 
