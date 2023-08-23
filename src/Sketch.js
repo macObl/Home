@@ -20,12 +20,12 @@ const Sketch = () => {
       var canvas;
 
       p.windowResized = () => {
-         p.resizeCanvas(document.body.scrollWidth, 3551);
+         p.resizeCanvas(document.body.scrollWidth, document.body.scrollHeight);
       }
 
 
       p.setup = () =>  {
-        canvas = p.createCanvas(document.body.scrollWidth, 3551);
+        canvas = p.createCanvas(document.body.scrollWidth, document.body.scrollHeight);
         canvas.position(0,0);
         canvas.style('z-index', '-1');
         p.colorMode(p.RGB, 255, 255, 255, 1);
